@@ -6,7 +6,7 @@ public class FacadePatternClient {
     private static int  choice;
     public static void main(String args[]) throws NumberFormatException, IOException{
         do{
-            System.out.print("*=========* Mobile Shop *============* \n");
+            System.out.print("*=========* Pastry Shop *============* \n");
             System.out.print("            1. Cheesecake.              \n");
             System.out.print("            2. Muffin.              \n");
             System.out.print("            3. Pudding.            \n");
